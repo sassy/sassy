@@ -1,7 +1,9 @@
 # Profile
 
 Satoshi Watanabe
+
 Software Engineer at KAKEHASHI Inc. 
+
 Application/Web Frontend Development.
 
 - 🌱 I’m currently learning Angular, Python, Swift, Kotlin.
